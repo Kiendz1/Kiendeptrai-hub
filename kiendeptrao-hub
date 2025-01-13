@@ -1,6 +1,6 @@
 Config = {
     namescript = "kiendeptrai-hub",--Tên Script
     logoscript = "117390141608083",--ID Logo Script
-    tacgia = "kiên"-- Tên Tác Giả
+    tacgia = "trung kiên"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
